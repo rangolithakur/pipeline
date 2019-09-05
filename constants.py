@@ -1,0 +1,6 @@
+""" Module to store all the constants"""
+ENTITYTYPE = "entityType"
+TASKS = "tasks"
+ENTITYNAME = "entityName"
+PROJNAME = "projName"
+TASKASIGNEE = "taskAsignee"
